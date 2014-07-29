@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMD>
+	<maps id="map1">
+		<img height="840" src="hikari2_map.png" width="700" />
+		<data swlat="34.669240745918316" swlng="133.75728535650524" nelat="34.66988356644913" nelng="133.7578210402809" />
+		<masks id="0" width="250" height="150" x="150" y="200" >
+		</masks>
+	</maps>
+	<maps id="map2">
+		<img height="625" src="hikari2_2F.png" width="941" />
+		<data swlat="34.66948759488335" swlng="133.7573915719986" nelat="34.66970322865878" nelng="133.75772684812546" />
+		<masks id="0" width="250" height="150" x="150" y="200" >
+		</masks>
+	</maps>
+</BMD>

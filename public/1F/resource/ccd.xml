@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CCD>
+	<Contents maptype="google">
+    <floor no="1F">
+    <!-- コンテンツ位置：1F -->
+    <Content contentid="01" type="img">
+      <img src="pano0.jpg" thumbsrc=""/>
+      <coords lng="133.7574988603592" lat="34.669606165954654" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+    
+    <floor no="2F">
+    <!-- コンテンツ位置：2F -->
+    <Content contentid="02" type="img">
+      <img src="pano0.jpg" thumbsrc="hikari2_2F.jpg"/>
+      <coords lng="133.75751253962108" lat="34.669605393865766" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+	</Contents>
+</CCD>

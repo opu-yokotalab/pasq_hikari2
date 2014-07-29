@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PCD>
+<Panoramas startpano="pano12" startdir="0">
+<Panorama panoid="pano12">
+<img src="080.jpg" width="1500" height="403" />
+<coords lng="133.7576550990343" lat="34.6695852092195" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano13">
+<img src="076.jpg" width="1500" height="403" />
+<coords lng="133.75760279595852" lat="34.669590172657266" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano14">
+<img src="078.jpg" width="1500" height="403" />
+<coords lng="133.7575850263238" lat="34.669590172657266" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano15">
+<img src="077.jpg" width="1500" height="403" />
+<coords lng="133.75756725668907" lat="34.669590172657266" />
+<direction north="1139" />
+</Panorama>
+</Panoramas>
+</PCD>

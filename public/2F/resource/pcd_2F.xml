@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PCD>
+  <Panoramas maptype="" startdir="0" startpano="pano0">
+    <Panorama panoid="pano0">
+      <img height="407" src="017.jpg" width="1500"/>
+      <coords lat="34.669605393865766" lng="133.75751253962108"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano1">
+          <range end="49" start="309"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="">
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano1">
+      <img height="407" src="002.jpg" width="1500"/>
+      <coords lat="34.66964091000385" lng="133.75751227140427"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano2">
+          <range end="53" start="303"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano0">
+          <range end="229" start="129"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano2">
+      <img height="407" src="004.jpg" width="1500"/>
+      <coords lat="34.669658557769296" lng="133.757511600852"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano3">
+          <range end="140" start="28"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano1">
+          <range end="233" start="141"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano3">
+      <img height="407" src="005.jpg" width="1500"/>
+      <coords lat="34.66965966075449" lng="133.75752568244934"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano4">
+          <range end="136" start="24"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano2">
+          <range end="320" start="208"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano4">
+      <img height="407" src="006.jpg" width="1500"/>
+      <coords lat="34.6696618667249" lng="133.75754110515118"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano5">
+          <range end="145" start="33"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano3">
+          <range end="316" start="204"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano5">
+      <img height="407" src="007.jpg" width="1500"/>
+      <coords lat="34.66966200459805" lng="133.75755853950977"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano6">
+          <range end="145" start="33"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano9">
+          <range end="212" start="146"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano4">
+          <range end="325" start="213"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano6">
+      <img height="407" src="008.jpg" width="1500"/>
+      <coords lat="34.669662142471196" lng="133.75757597386837"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano7">
+          <range end="145" start="33"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano9">
+          <range end="212" start="146"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano5">
+          <range end="325" start="213"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano7">
+      <img height="407" src="009.jpg" width="1500"/>
+      <coords lat="34.66966228034434" lng="133.75759340822697"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano8">
+          <range end="145" start="33"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano11">
+          <range end="212" start="146"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano6">
+          <range end="325" start="213"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano8">
+      <img height="407" src="010.jpg" width="1500"/>
+      <coords lat="34.66966241821749" lng="133.75761084258556"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano11">
+          <range end="212" start="136"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano7">
+          <range end="325" start="213"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano9">
+      <img height="407" src="012.jpg" width="1500"/>
+      <coords lat="34.66962988014853" lng="133.75756725668907"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano5">
+          <range end="30" start="296"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano10">
+          <range end="143" start="31"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="210" start="144"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano10">
+      <img height="407" src="013.jpg" width="1500"/>
+      <coords lat="34.66963043164134" lng="133.75758469104767"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano11">
+          <range end="146" start="36"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano9">
+          <range end="323" start="211"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano11">
+      <img height="407" src="016.jpg" width="1500"/>
+      <coords lat="34.66962988014853" lng="133.75760547816753"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano8">
+          <range end="58" start="327"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano10">
+          <range end="326" start="216"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano13">
+          <range end="215" start="130"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano12">
+      <img height="403" src="080.jpg" width="1500"/>
+      <coords lat="34.6695852092195" lng="133.7576550990343"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano13">
+          <range end="325" start="227"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="">
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano13">
+      <img height="403" src="076.jpg" width="1500"/>
+      <coords lat="34.669590172657266" lng="133.75760279595852"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano12">
+          <range end="145" start="47"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano14">
+          <range end="325" start="215"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano11">
+          <range end="46" start="326"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano14">
+      <img height="403" src="078.jpg" width="1500"/>
+      <coords lat="34.669590172657266" lng="133.7575850263238"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano13">
+          <range end="145" start="35"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="325" start="215"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano15">
+      <img height="403" src="077.jpg" width="1500"/>
+      <coords lat="34.669590172657266" lng="133.75756725668907"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano14">
+          <range end="145" start="35"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano9">
+          <range end="36" start="330"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+  </Panoramas>
+</PCD>

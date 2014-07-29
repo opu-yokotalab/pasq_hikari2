@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PCD>
+<Panoramas startpano="pano0" startdir="0">
+<Panorama panoid="pano0">
+<img src="017.jpg" width="1500" height="407" />
+<coords lng="133.75751253962108" lat="34.669605393865766" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano1">
+<img src="002.jpg" width="1500" height="407" />
+<coords lng="133.75751227140427" lat="34.66964091000385" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano2">
+<img src="004.jpg" width="1500" height="407" />
+<coords lng="133.757511600852" lat="34.669658557769296" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano3">
+<img src="005.jpg" width="1500" height="407" />
+<coords lng="133.75752568244934" lat="34.66965966075449" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano4">
+<img src="006.jpg" width="1500" height="407" />
+<coords lng="133.75754110515118" lat="34.6696618667249" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano5">
+<img src="007.jpg" width="1500" height="407" />
+<coords lng="133.75755853950977" lat="34.66966200459805" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano6">
+<img src="008.jpg" width="1500" height="407" />
+<coords lng="133.75757597386837" lat="34.669662142471196" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano7">
+<img src="009.jpg" width="1500" height="407" />
+<coords lng="133.75759340822697" lat="34.66966228034434" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano8">
+<img src="010.jpg" width="1500" height="407" />
+<coords lng="133.75761084258556" lat="34.66966241821749" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano9">
+<img src="012.jpg" width="1500" height="407" />
+<coords lng="133.75756725668907" lat="34.66962988014853" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano10">
+<img src="013.jpg" width="1500" height="407" />
+<coords lng="133.75758469104767" lat="34.66963043164134" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano11">
+<img src="016.jpg" width="1500" height="407" />
+<coords lng="133.75760547816753" lat="34.66962988014853" />
+<direction north="1139" />
+</Panorama>
+</Panoramas>
+</PCD>

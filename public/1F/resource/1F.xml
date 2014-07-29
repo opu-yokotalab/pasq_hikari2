@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PCD>
+<Panoramas startpano="pano0" startdir="0">
+<Panorama panoid="pano0">
+<img src="018.jpg" width="1500" height="407" />
+<coords lng="133.7574988603592" lat="34.669606165954654" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano1">
+<img src="027.jpg" width="1500" height="407" />
+<coords lng="133.7574988603592" lat="34.669645321945566" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano2">
+<img src="028.jpg" width="1500" height="407" />
+<coords lng="133.75751193612814" lat="34.669645266796294" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano3">
+<img src="029.jpg" width="1500" height="407" />
+<coords lng="133.7575250118971" lat="34.66964521164702" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano4">
+<img src="030.jpg" width="1500" height="407" />
+<coords lng="133.75753808766603" lat="34.66964515649775" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano5">
+<img src="031.jpg" width="1500" height="407" />
+<coords lng="133.75755116343498" lat="34.66964510134848" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano6">
+<img src="032.jpg" width="1500" height="407" />
+<coords lng="133.75756423920393" lat="34.66964504619921" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano7">
+<img src="035.jpg" width="1500" height="407" />
+<coords lng="133.75757731497288" lat="34.66964499104994" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano8">
+<img src="036.jpg" width="1500" height="407" />
+<coords lng="133.75759039074183" lat="34.66964493590067" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano9">
+<img src="037.jpg" width="1500" height="407" />
+<coords lng="133.75760346651077" lat="34.6696448807514" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano10">
+<img src="039.jpg" width="1500" height="407" />
+<coords lng="133.75761654227972" lat="34.66964482560213" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano11">
+<img src="041.jpg" width="1500" height="407" />
+<coords lng="133.75762961804867" lat="34.669644770452855" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano12">
+<img src="042.jpg" width="1500" height="407" />
+<coords lng="133.75744923949242" lat="34.66958686369878" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano13">
+<img src="043.jpg" width="1500" height="407" />
+<coords lng="133.75744856894016" lat="34.66956590695877" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano14">
+<img src="045.jpg" width="1500" height="407" />
+<coords lng="133.75744923949242" lat="34.66953171437157" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano15">
+<img src="046.jpg" width="1500" height="407" />
+<coords lng="133.75750006734506" lat="34.669587194595906" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano16">
+<img src="047.jpg" width="1500" height="407" />
+<coords lng="133.7575004026212" lat="34.66955824119874" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano17">
+<img src="048.jpg" width="1500" height="407" />
+<coords lng="133.75750073789732" lat="34.66952928780157" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano18">
+<img src="051.jpg" width="1500" height="407" />
+<coords lng="133.7574753910303" lat="34.66960285699683" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano19">
+<img src="052.jpg" width="1500" height="407" />
+<coords lng="133.7574753910303" lat="34.6696240894712" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano20">
+<img src="053.jpg" width="1500" height="407" />
+<coords lng="133.7574753910303" lat="34.669645321945566" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano21">
+<img src="055.jpg" width="1500" height="407" />
+<coords lng="133.75748679041862" lat="34.669645873438256" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano22">
+<img src="056.jpg" width="1500" height="407" />
+<coords lng="133.75763967633247" lat="34.669644770452855" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano23">
+<img src="057.jpg" width="1500" height="407" />
+<coords lng="133.7576400116086" lat="34.66962601969671" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano24">
+<img src="058.jpg" width="1500" height="407" />
+<coords lng="133.75764034688473" lat="34.66960726894056" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano25">
+<img src="061.jpg" width="1500" height="407" />
+<coords lng="133.75750422477722" lat="34.6696618667249" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano26">
+<img src="063.jpg" width="1500" height="407" />
+<coords lng="133.7575189769268" lat="34.66966241821749" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano27">
+<img src="066.jpg" width="1500" height="407" />
+<coords lng="133.75759944319725" lat="34.669624365220315" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano28">
+<img src="067.jpg" width="1500" height="407" />
+<coords lng="133.7576001137495" lat="34.669592930122555" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano29">
+<img src="070.jpg" width="1500" height="407" />
+<coords lng="133.7575639039278" lat="34.66962601969883" />
+<direction north="1139" />
+</Panorama>
+<Panorama panoid="pano30">
+<img src="072.jpg" width="1500" height="407" />
+<coords lng="133.75756484269687" lat="34.669595466991794" />
+<direction north="1139" />
+</Panorama>
+</Panoramas>
+</PCD>
